@@ -1,0 +1,3 @@
+L1 Cache: 49,152B (48 KB)
+L2 Cache: 1,310,720B (1.25 MB)
+L3 Cache: 25,165,824B (24MB)

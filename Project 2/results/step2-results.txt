@@ -1,0 +1,32 @@
+=== Naive GEMM | 128x128 | 3 iteration(s) ===
+
+  Iter 1/3 | NumPy: 0.000629s | Python: 1.2064s
+  Iter 2/3 | NumPy: 0.001674s | Python: 1.2046s
+  Iter 3/3 | NumPy: 0.000434s | Python: 1.2565s
+
+  Avg NumPy:  0.000913s
+  Avg Python: 1.2225s
+  Speedup:    1339.4x
+
+
+=== Naive GEMM | 256x256 | 3 iteration(s) ===
+
+  Iter 1/3 | NumPy: 0.011781s | Python: 9.3169s
+  Iter 2/3 | NumPy: 0.043566s | Python: 8.9596s
+  Iter 3/3 | NumPy: 0.025662s | Python: 9.5135s
+
+  Avg NumPy:  0.027003s
+  Avg Python: 9.2633s
+  Speedup:    343.0x
+
+
+=== Naive GEMM | 512x512 | 3 iteration(s) ===
+
+  Iter 1/3 | NumPy: 0.010576s | Python: 76.5027s
+  Iter 2/3 | NumPy: 0.044732s | Python: 76.0782s
+  Iter 3/3 | NumPy: 0.035747s | Python: 75.2890s
+
+  Avg NumPy:  0.030352s
+  Avg Python: 75.9566s
+  Speedup:    2502.5x
+

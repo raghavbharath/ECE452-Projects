@@ -1,4 +1,4 @@
-# ECE 452 — Project 2: Optimizing GEMM for Deep Learning with GPU cuBLAS
+# ECE 452 - Project 2: Optimizing GEMM for Deep Learning with GPU cuBLAS
 
 
 Benchmarking General Matrix Multiplication (GEMM) across CPU and GPU implementations to study the effect of cache-aware tiling on performance. Compares pure Python loops, NumPy, and NVIDIA cuBLAS across matrix sizes of 128×128, 256×256, and 512×512.

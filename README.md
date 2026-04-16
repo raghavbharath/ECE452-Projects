@@ -1,4 +1,4 @@
-# ECE 452 Project 1
+# ECE 452 Project 1 - A customized MLP for digit recognition
 
 This project is an MLP-based handwritten digit recognition across 3 parts. I completed it with my partners, Arnav Revankar and Daniel Assaf. 
 

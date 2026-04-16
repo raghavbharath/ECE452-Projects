@@ -8,7 +8,7 @@ Benchmarking General Matrix Multiplication (GEMM) across CPU and GPU implementat
 ## Repository Structure
 
 ```
-Project 2/
+Project2/
 ├── CPU_Naive/
 │   ├── gemm-naive.py         # Naive GEMM: Python triple loop vs NumPy
 │   └── gemm-naive-all.py     # Runs all sizes, generates boxplot
